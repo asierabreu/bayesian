@@ -1,5 +1,7 @@
 # bayesian
 
+![alt text](https://av-eks-blogoptimized.s3.amazonaws.com/1266981.png)
+
 A series of inference works that take into account data and model uncertainty using bayesian methods on :
 
  1. Object detection on Earth observing satellite images (methods : bayesian neural network)
