@@ -1,8 +1,6 @@
 tensorflow 
-tensorflow_addons 
 tensorflow_datasets 
-tensorflow_hub 
-numpy 
+tensorflow_probability
 matplotlib
 seaborn 
 scikit-learn
