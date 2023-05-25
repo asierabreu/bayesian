@@ -4,3 +4,4 @@ tensorflow_probability
 matplotlib
 seaborn 
 scikit-learn
+statistics
